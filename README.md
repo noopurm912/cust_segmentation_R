@@ -10,8 +10,8 @@ The dataset is available on the website of the UCI machine learning repository a
  <h4>Architecture & Implementation</h4>
   
 The RFM(Recency, Frequency, and Monetary) analysis and K-means clustering algorithm are used to perform customer segmentation. The objective of the implementation is to segment the customer by combining the RFM and K-means techniques to get useful insights from their respective results. The project implementation steps are as follows: <br> 
-•	Read the dataset<br>
-•	Data Preprocessing and visualization<br>
+•	Read the dataset.<br>
+•	Data Preprocessing and visualization.<br>
 •	Calculate RFM scores, values for each customer, and manually segment the customers based on the RFM scores.<br>
 •	Implement K-means clustering using RFM values as variables.<br>
 •	Analyze and compare the K-means clusters and segments from RFM analysis.<br>
